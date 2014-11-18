@@ -40,8 +40,9 @@ h1 small,h2 small,h3 small,h4 small,h5 small,h6 small{margin-left:12px;font-size
 
 .navbar-inverse .navbar-inner {
   /*  background-color: #ec602f; */
-	background-color: #DB6060;
-    background-repeat: repeat-x;
+	/*background-color: #C85959;*/
+	background-color: #C85959;
+  background-repeat: repeat-x;
 	border-color: transparent;
 	background-image: none;
 }
@@ -182,7 +183,7 @@ hr {
 #servicewrap h2 {
 	text-align:left;
 	margin-left:5px;
-	border-left:10px #DB6060 solid;
+	border-left:10px #C85959 solid;
 	padding-left:3px;
 }
 
@@ -209,7 +210,7 @@ hr {
 #aboutwrap h2 {
 	text-align:left;
 	margin-left:5px;
-	border-left:10px #DB6060 solid;
+	border-left:10px #C85959 solid;
 	padding-left:3px;
 }
 
@@ -217,7 +218,7 @@ hr {
 	font-family: 'Open Sans Condensed', sans serif;
 	font-weight:400;
 	font-size:30px;
-	color:#DB6060;
+	color:#C85959;
 }
 
 #aboutwrap h4 {
@@ -248,7 +249,7 @@ hr {
 	margin-top:150px;
 	clear: both;
 	opacity: 1;
-	background: #DB6060;
+	background: #C85959;
 	background: rgb(225,112,75);
 	background: rgba(225,112,75, 0.95);
 }
@@ -265,7 +266,7 @@ hr {
 #projectwrap_2 h2 {
 	text-align:left;
 	margin-left:5px;
-	border-left:10px #DB6060 solid;
+	border-left:10px #C85959 solid;
 	padding-left:3px;
 }
 
@@ -273,7 +274,7 @@ hr {
 	font-family: 'Open Sans Condensed', sans serif;
 	font-weight:400;
 	font-size:30px;
-	color:#DB6060;
+	color:#C85959;
 	text-align:center;
 }
 
@@ -298,7 +299,7 @@ hr {
 #footerwrap h2 {
 	text-align:left;
 	margin-left:5px;
-	border-left:10px #DB6060 solid;
+	border-left:10px #C85959 solid;
 	padding-left:3px;
 	margin-bottom:40px;
 	color:#fff;
@@ -308,7 +309,7 @@ hr {
 	font-family: 'Open Sans Condensed', sans serif;
 	font-weight:400;
 	font-size:30px;
-	color:#DB6060;
+	color:#C85959;
 	text-align:center;
     margin:5px;
 }
@@ -493,7 +494,7 @@ hr {
 }
 
 .pricing-column li.pricing-price {
-	color:#DB6060;
+	color:#C85959;
 	font-size: 200%;
 	line-height: 120%;
 }
